@@ -1,3 +1,3 @@
 # IBM-Data-Science
 
-This repository is to record the work in this specialization.
+This repository is to record my study in this specialization.
